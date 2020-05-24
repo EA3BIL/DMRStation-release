@@ -88,7 +88,7 @@ NotShowIn=KDE;
 
 ## md380-emu
 
-For now there is no support for Ammbe server so using the emulator is the only option.
+For now there is no support for AMBE server so using the emulator is the only option.
 
 You can get the emulator from source code from this repository:
 
